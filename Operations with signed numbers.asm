@@ -46,4 +46,3 @@ int 21h
 
 end start
 end
-
